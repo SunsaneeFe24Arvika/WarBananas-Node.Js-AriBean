@@ -2,7 +2,7 @@
 
 
 Vi väljer att bjuda nya kunder med 10% rabatt vid första köpet.
-Kunder får ett eget specifik rabattkod vid registreringen. 
+Kunder får ett eget specifik rabattkod vid registreringen som en kund. 
 
 Enjoy ditt kaffe!
 
